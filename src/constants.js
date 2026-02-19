@@ -125,15 +125,15 @@ export const SkillsInfo = [
     {
       id: 0,
       img: jarLogo,
-      role: "Upcoming Data Analyst Intern",
-      company: "Jar Company",
+      role: "Data Analyst Intern",
+      company: "Jar",
       date: "Jan 2026 - Present",
-      desc: "HEHE to be updated",
+      desc: "Collaborating with the data team to manage and query large-scale datasets within MongoDB environments. I specialize in developing Python scripts via Jupyter Notebooks and leveraging Django, Celery Beat, and Cron jobs to build automated data pipelines. By streamlining data cleaning and task scheduling, I ensure high data integrity and provide actionable insights that drive product growth and user retention.",
       skills: [
-        "MongoDB",
-        "Pandas",
         "Python",
+        "Pandas",
         "MySQL",
+        "MongoDB",
       ],
     },
   ];
