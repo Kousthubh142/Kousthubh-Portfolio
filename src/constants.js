@@ -144,7 +144,7 @@ export const SkillsInfo = [
       img: pesLogo,
       school: "PES University, Bengaluru, Karnataka",
       date: "Nov 2022 - Present",
-      grade: "8.35 CGPA",
+      grade: "8.43 CGPA",
       desc: "I am currently pursuing my Bachelor of Technology in Computer Science and Engineering at PES University. During my academic journey, I have developed a strong foundation in core computer science subjects such as Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Software Engineering. Alongside coursework, I have worked on multiple technical projects involving artificial intelligence, data analytics, backend systems, and structured databases, which strengthened my practical understanding of real-world problem solving. I have also actively participated in technical activities and project-based learning, contributing significantly to my technical growth and professional development.",
       degree: "B.Tech - Computer Science & Engineering (CSE)",
     },
